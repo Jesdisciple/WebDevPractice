@@ -8,10 +8,10 @@ using System.Web.Security;
 using DotNetOpenAuth.AspNet;
 using Microsoft.Web.WebPages.OAuth;
 using WebMatrix.WebData;
-using Lessons.Filters;
-using Lessons.Models;
+using Dynamic.Filters;
+using Dynamic.Models;
 
-namespace Lessons.Controllers
+namespace Dynamic.Controllers
 {
 	[Authorize]
 	[InitializeSimpleMembership]

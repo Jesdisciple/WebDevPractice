@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Lessons.Controllers
+namespace Dynamic.Controllers
 {
 	public class HomeController : Controller
 	{

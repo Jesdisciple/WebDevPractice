@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Microsoft.Web.WebPages.OAuth;
-using Lessons.Models;
+using Dynamic.Models;
 
-namespace Lessons
+namespace Dynamic
 {
 	public static class AuthConfig
 	{
