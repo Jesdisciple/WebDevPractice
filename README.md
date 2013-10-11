@@ -4,7 +4,7 @@ WebDevPractice
 Abstract
 --------
 
-This propject is intended as a tutorial for:
+This project is intended as a tutorial for:
 
 1. XHTML 5
 2. CSS 3
@@ -23,3 +23,5 @@ Table of Contents
 Chapter 1: Static
 * [Lesson 00: Setting Up Your Environment](00.md)
 * [Lesson 01: XHTML Basics](01.md)
+
+Chapter 2: Dynamic
