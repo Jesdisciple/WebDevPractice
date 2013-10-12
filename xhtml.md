@@ -10,4 +10,4 @@ Originally, Web pages were written in [HTML](http://en.wikipedia.org/wiki/HTML),
 References
 ----------
 
-1: See [here](css.md) for depth.
+1. See [here](css.md) for details on CSS.

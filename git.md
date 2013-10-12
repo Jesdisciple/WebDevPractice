@@ -10,4 +10,4 @@ Many other VCSs exist, but the big four are git, Subversion (svn), Mercurial (hg
 References
 ----------
 
-1: See [here](client-server.md) for depth.
+1. See [here](client-server.md) for details about clients and servers.
