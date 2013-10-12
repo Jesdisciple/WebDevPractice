@@ -21,7 +21,9 @@ Table of Contents
 -----------------
 
 Chapter 1: Static
-* [Lesson 00: Setting Up Your Environment](00.md)
-* [Lesson 01: XHTML Basics](01.md)
+* [Lesson 01: Setting Up Your Environment](01.md)
+* [Lesson 02: XHTML Basics](02.md)
+* [Lesson 03: XHTML in Visual Studio](03.md)
+
 
 Chapter 2: Dynamic
