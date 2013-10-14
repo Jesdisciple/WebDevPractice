@@ -24,7 +24,8 @@ Chapter 1: Static
 * [Lesson 01: Setting Up Your Environment](01.md)
 * [Lesson 02: XHTML Basics](02.md)
 * [Lesson 03: XHTML in Visual Studio](03.md)
-* [Lesson 04: 
+* [Lesson 04: Another Way to Weave a Tangled Web](04.md)
+* [Lesson 05: ](05.md)
 
 
 Chapter 2: Dynamic
